@@ -78,3 +78,16 @@ header nav ul li a:hover {
   border-radius: 15px;
   text-shadow: none;
 }
+
+.hero {
+  background-image: url("../src/assets/cover/E15E64A7-696C-43D0-98CC-009DC771920E.jpeg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  background-attachment: fixed;
+  background-position: 80%;
+
+}
