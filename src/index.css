@@ -154,3 +154,11 @@ header nav ul li a:hover {
   flex-wrap: wrap;
 }
 
+.contact-form {
+  padding-right: 10%;
+}
+
+.contact-form button:hover {
+  color: #000000;
+  background: #c4bfbf;
+}
