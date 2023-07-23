@@ -1,5 +1,5 @@
 import React from "react";
-import myResume from "";
+import myResume from "../../assets/files/95FA67A0-1BEB-4742-881A-90E34A314899_1_201_a.jpeg";
 import { BsCloudDownload } from "react-icons/bs";
 function Resume() {
   return (
