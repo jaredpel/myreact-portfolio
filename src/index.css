@@ -111,3 +111,46 @@ header nav ul li a:hover {
   font-size: 25px;
   color: #000000;
 }
+
+.intro p {
+  line-height: 1.7;
+  color: #000000;
+  width: 80%;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.intro-img {
+  flex: 1 12%;
+  margin-right: 20px;
+}
+
+.intro-img img {
+  max-width: 100%;
+  height: auto;
+  margin-left: 5px;
+}
+
+.intro-text {
+  flex: 12;
+}
+
+.intro-text p {
+  color: #000000;
+  font-size: 18px;
+}
+
+#reach-out {
+  background: #ffffff;
+}
+
+#reach-out h2 {
+  color: #000000;
+}
+
+.contact-info {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
