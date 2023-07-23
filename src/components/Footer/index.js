@@ -5,7 +5,7 @@ import { AiOutlineLinkedin } from "react-icons/ai";
 function Footer() {
   return (
     <footer>
-      <h2>@</h2>
+      <h2>Find me on:</h2>
       <p>
         <ul>
           <a href="https://github.com/">

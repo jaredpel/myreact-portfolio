@@ -15,7 +15,7 @@ function Resume() {
                 <BsCloudDownload />
               </a>
               <p>
-                something to write
+                Download Resume
               </p>
             </div>
           </div>
