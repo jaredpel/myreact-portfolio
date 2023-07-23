@@ -72,3 +72,9 @@ header nav ul li a {
 
 }
 
+header nav ul li a:hover {
+  background: #a59ace33;
+  color: #000000;
+  border-radius: 15px;
+  text-shadow: none;
+}
