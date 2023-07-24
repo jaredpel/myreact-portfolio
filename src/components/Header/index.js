@@ -9,7 +9,7 @@ function Header(props) {
       <section>
         <header className="flex-row px-1">
           <div>
-            <h1>Projects</h1>
+            <h1>Jared Pelaez</h1>
           </div>
           <div>
             <Nav
@@ -21,9 +21,9 @@ function Header(props) {
       </section>
       <section class="hero">
         <div class="hero-cta">
-          <h2>Here are my main Projects</h2>
+          <h2>Welcome to my Portfolio</h2>
           <p>
-            Projects
+            Feel free to look around!
           </p>
         </div>
       </section>
