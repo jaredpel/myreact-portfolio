@@ -21,6 +21,22 @@ function Resume() {
           </div>
         </div>
       </section>
+      <div className="article column1">
+          <p className="column-title">Hello you found me download my resume plz</p>
+          <p className="column-text">
+            <ul>
+              <li className="logo">
+              </li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+            </ul>
+          </p>
+        </div>
     </div>
   );
 }
