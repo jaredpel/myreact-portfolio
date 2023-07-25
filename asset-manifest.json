@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myreact-portfolio/static/css/main.d1567fde.css",
+    "main.js": "/myreact-portfolio/static/js/main.190f5165.js",
+    "static/js/787.a2cb61a6.chunk.js": "/myreact-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/projectbored.jpeg": "/myreact-portfolio/static/media/projectbored.dd667aa32fc4578fcf52.jpeg",
+    "static/media/scheduler.jpeg": "/myreact-portfolio/static/media/scheduler.349a6becb7f915914666.jpeg",
+    "static/media/95FA67A0-1BEB-4742-881A-90E34A314899_1_201_a.jpeg": "/myreact-portfolio/static/media/95FA67A0-1BEB-4742-881A-90E34A314899_1_201_a.7343257df850a7809738.jpeg",
+    "static/media/passwordgen.jpeg": "/myreact-portfolio/static/media/passwordgen.c5409a7f7e1caf90baa4.jpeg",
+    "static/media/quiz.jpeg": "/myreact-portfolio/static/media/quiz.1e1fa2b8e651653fa3db.jpeg",
+    "static/media/CEB1206C-F653-456D-B84A-54951E92A85B_1_105_c.jpeg": "/myreact-portfolio/static/media/CEB1206C-F653-456D-B84A-54951E92A85B_1_105_c.404f32e7e862ac088d44.jpeg",
+    "static/media/E15E64A7-696C-43D0-98CC-009DC771920E.jpeg": "/myreact-portfolio/static/media/E15E64A7-696C-43D0-98CC-009DC771920E.def0401ca8159f54a171.jpeg",
+    "index.html": "/myreact-portfolio/index.html",
+    "main.d1567fde.css.map": "/myreact-portfolio/static/css/main.d1567fde.css.map",
+    "main.190f5165.js.map": "/myreact-portfolio/static/js/main.190f5165.js.map",
+    "787.a2cb61a6.chunk.js.map": "/myreact-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1567fde.css",
+    "static/js/main.190f5165.js"
+  ]
+}
