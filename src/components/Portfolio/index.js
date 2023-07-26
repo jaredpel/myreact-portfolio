@@ -82,6 +82,94 @@ function Portfolio() {
         <div className="port">
           <div className="port-info">
             <div className="port-img">
+              <a href="https://jaredpel.github.io/Api-weather/">
+                {" "}
+                <img
+                  src={schedulerImage}
+                  className="my-2"
+                  style={{ width: "100%" }}
+                  alt="Weather API"
+                />
+              </a>
+            </div>
+            <div className="port-text">
+              <h4>Weather API</h4>
+              <p>
+                about {" "}
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div className="port">
+          <div className="port-info">
+            <div className="port-img">
+              <a href="https://github.com/jaredpel/SVGLogo-Maker">
+                {" "}
+                <img
+                  src={schedulerImage}
+                  className="my-2"
+                  style={{ width: "100%" }}
+                  alt="SVG LOGO"
+                />
+              </a>
+            </div>
+            <div className="port-text">
+              <h4>SVG LOGO</h4>
+              <p>
+                about {" "}
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div className="port">
+          <div className="port-info">
+            <div className="port-img">
+              <a href="">
+                {" "}
+                <img
+                  src={schedulerImage}
+                  className="my-2"
+                  style={{ width: "100%" }}
+                  alt="PWA"
+                />
+              </a>
+            </div>
+            <div className="port-text">
+              <h4>Progressive Web Application</h4>
+              <p>
+                about {" "}
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div className="port">
+          <div className="port-info">
+            <div className="port-img">
+              <a href="https://alumni-book-app-cae10c9784e0.herokuapp.com/">
+                {" "}
+                <img
+                  src={schedulerImage}
+                  className="my-2"
+                  style={{ width: "100%" }}
+                  alt="AlumniBooks"
+                />
+              </a>
+            </div>
+            <div className="port-text">
+              <h4>Alumni Books</h4>
+              <p>
+                about {" "}
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div className="port">
+          <div className="port-info">
+            <div className="port-img">
               <a href="https://jaredpel.github.io/My-schedule/">
                 {" "}
                 <img
