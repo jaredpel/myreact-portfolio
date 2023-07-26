@@ -31,7 +31,6 @@ function App() {
       <Helmet>
         <title> Jared's Portfolio {currentTab} </title>
       </Helmet>
-      ;
       <Header
         currentTab={currentTab}
         handleTabChange={handleTabChange}
